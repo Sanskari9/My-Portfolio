@@ -295,7 +295,7 @@ footer{
         font-size: 11px;
     }
     .infocontainer{
-        margin: 60px 0px 168px 35px;
+        margin: 60px 0px 300px 35px;
     }
     .introcontainer{
         font-size: 0.8em;
@@ -330,7 +330,7 @@ footer{
     }
     .servicescontainer{
         width: 26em;
-        margin: -40px;
+        margin: -53px 0px 100px 19px;
         flex-wrap: wrap;
     }
 }
