@@ -286,8 +286,7 @@ footer{
         margin: 60px 0;
     }
     .devpic img{
-        margin: 32px;
-        height: 134px;
+        display: none;
     }
     .introcontainer, .projectcontainer,.contactform{
         margin: 40px 8px;
