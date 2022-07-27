@@ -288,11 +288,21 @@ footer{
     .devpic img{
         display: none;
     }
-    .introcontainer, .projectcontainer,.contactform{
-        margin: 40px 8px;
+    .projectcontainer, .servicescontainer{
+        margin: 50px 8px;
     }
     .buttons{
         font-size: 11px;
+    }
+    .introcontainer{
+        font-size: 0.8em;
+        margin: 50px 18px 100px 18px;
+    }
+    .contactform{
+        margin-top: 20px;
+        margin-bottom: 70px;
+        margin-left: 8px;
+        margin-right: 8px;
     }
     .contactform form{
         margin: 35px 30px;
